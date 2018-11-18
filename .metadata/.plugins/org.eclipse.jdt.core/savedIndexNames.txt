@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+C:\Users\lucio\Box Sync\Java-2018\Exercicios\.metadata\.plugins\org.eclipse.jdt.core
+848717947.index
+2698805614.index
+626446600.index
+3140633771.index
+695350163.index
+102534526.index
+970313940.index
+3411587108.index
+1381097886.index
+1430005127.index
